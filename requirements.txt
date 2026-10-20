@@ -4,3 +4,7 @@ matplotlib
 joblib 
 numpy
 seaborn
+python-dotenv
+fastapi
+uvicorn
+pydantic
